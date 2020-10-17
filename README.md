@@ -4,6 +4,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+## `libs`
+
+- [react-router-dom]()
+- [leaflet]() => Renderização de Mapas
+- [mapBox]() => Estilos de mapas
+- [react-icons]() => Biblioteca de icons 
+
+
 ### `yarn start`
 
 Runs the app in the development mode.<br />
